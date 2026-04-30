@@ -27,3 +27,6 @@ Press **Enter** to exit.
 | `DeviceWatcher.cs` | USB device event listener with debounce |
 | `DeviceScanner.cs` | PnP device enumeration |
 | `LayoutApplier.cs` | Keyboard layout switching via Win32 APIs |
+
+## Note
+This repository was created as a code sample for the MLH Fellowship application.
